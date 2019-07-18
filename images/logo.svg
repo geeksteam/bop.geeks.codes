@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="50px" viewBox="0 0 90 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#9B9B9B" x="0" y="44" width="88" height="6" rx="3"></rect>
+        <text id="bop-is-bussines-oper" font-family="Avenir-Black, Avenir" font-size="50" font-weight="700">
+            <tspan x="-1.95" y="38" fill="#FB445B">b</tspan>
+            <tspan x="29.55" y="38" fill="#F5A623">o</tspan>
+            <tspan x="60.05" y="38" fill="#6AB616">p</tspan>
+            <tspan x="91.55" y="38" font-family="Avenir-Medium, Avenir" font-weight="400" fill="#6AB616"> </tspan>
+            <tspan x="105.45" y="38" font-family="Avenir-Light, Avenir" font-weight="300" fill="#4A4A4A">is</tspan>
+            <tspan x="138.75" y="38" font-family="Avenir-Medium, Avenir" font-weight="400" fill="#6AB616"> </tspan>
+            <tspan x="152.65" y="38" font-family="Avenir-Medium, Avenir" font-weight="400" fill="#4A4A4A">bussines operation platform</tspan>
+        </text>
+    </g>
+</svg>

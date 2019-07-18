@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="246px" height="174px" viewBox="0 0 246 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>ol-tick</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ol-tick" transform="translate(-73.000000, -109.000000)" fill="#51D9B5" fill-rule="nonzero">
+            <path d="M288.617,114.362 L163.249,242.094 L101.132,197.113 C93.25,191.405 82.22,193.169 76.5,201.051 C70.792,208.945 72.556,219.968 80.444,225.683 L154.862,279.567 C157.968,281.818 161.591,282.917 165.203,282.917 C169.8,282.917 174.368,281.13 177.789,277.638 L313.789,139.072 C320.614,132.122 320.513,120.956 313.552,114.131 C306.614,107.312 295.442,107.413 288.617,114.362 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

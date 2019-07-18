@@ -1,0 +1,48 @@
+$normal:-apple-system,
+BlinkMacSystemFont,
+"Segoe UI",
+"Roboto",
+"Oxygen",
+"Ubuntu",
+"Cantarell",
+"Fira Sans",
+"Droid Sans",
+"Helvetica Neue",
+sans-serif,
+sans-serif;
+body,
+html {
+    font-family: $normal;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #515978;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.clear {
+    clear: both;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #0d2366;
+}

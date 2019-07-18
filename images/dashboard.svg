@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>iconfinder_settings_1054981</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iconfinder_settings_1054981" fill-rule="nonzero">
+            <circle id="Oval" fill="#7EC9FD" cx="32" cy="32" r="32"></circle>
+            <path d="M32,52 C30.895,52 30,51.105 30,50 L30,18 C30,16.895 30.895,16 32,16 L32,16 C33.105,16 34,16.895 34,18 L34,50 C34,51.105 33.105,52 32,52 L32,52 Z" id="Path" fill="#104084"></path>
+            <path d="M46,52 C44.895,52 44,51.105 44,50 L44,18 C44,16.895 44.895,16 46,16 L46,16 C47.105,16 48,16.895 48,18 L48,50 C48,51.105 47.105,52 46,52 L46,52 Z" id="Path" fill="#104084"></path>
+            <path d="M18,52 C16.895,52 16,51.105 16,50 L16,18 C16,16.895 16.895,16 18,16 L18,16 C19.105,16 20,16.895 20,18 L20,50 C20,51.105 19.105,52 18,52 L18,52 Z" id="Path" fill="#104084"></path>
+            <g id="Group" opacity="0.2" transform="translate(41.000000, 34.000000)" fill="#231F20">
+                <circle id="Oval" cx="4.865" cy="4" r="4"></circle>
+            </g>
+            <g id="Group" opacity="0.2" transform="translate(28.000000, 23.000000)" fill="#231F20">
+                <circle id="Oval" cx="4" cy="4" r="4"></circle>
+            </g>
+            <g id="Group" opacity="0.2" transform="translate(14.000000, 40.000000)" fill="#231F20">
+                <circle id="Oval" cx="4" cy="4" r="4"></circle>
+            </g>
+            <circle id="Oval" fill="#FFFFFF" cx="45.865" cy="36" r="4"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="32" cy="25" r="4"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="18" cy="42" r="4"></circle>
+        </g>
+    </g>
+</svg>
